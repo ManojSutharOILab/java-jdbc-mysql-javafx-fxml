@@ -1,5 +1,5 @@
 # Technology added
-Java JDBC, MySQl, JavaFX, FXML
+Java JDBC, MySQL, JavaFX, FXML
 # SQL statement
 <code>create database oilab;</code>
 
